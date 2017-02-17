@@ -3,3 +3,4 @@
 *.iws
 test/
 *.secret
+compilerconfig.*
