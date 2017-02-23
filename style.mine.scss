@@ -64,6 +64,10 @@ body.simple {
     background-size: cover;
     background-color: #334D5C;
 
+    #layers {
+        background-color: transparent;
+    }
+
     #controls {
         display: none;
     }
